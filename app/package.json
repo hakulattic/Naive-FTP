@@ -2,7 +2,7 @@
   "name": "naive_ftp_client",
   "version": "0.1.0",
   "description": "A simple FTP client with GUI support.",
-  "repository": "https://github.com/hakula139/Naive-FTP",
+  "repository": "https://github.com/hakulattic/Naive-FTP",
   "author": "Hakula Chen",
   "license": "GPLv3+",
   "private": true,

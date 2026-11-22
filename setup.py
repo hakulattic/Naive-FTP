@@ -11,7 +11,7 @@ setuptools.setup(
     description='A simple FTP server and client.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/hakula139/Naive-FTP',
+    url='https://github.com/hakulattic/Naive-FTP',
     packages=setuptools.find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
