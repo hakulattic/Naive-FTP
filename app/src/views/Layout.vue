@@ -134,7 +134,7 @@ export default defineComponent({
       author: 'Hakula',
       links: {
         blog: 'https://hakula.xyz',
-        repo: 'https://github.com/hakula139/Naive-FTP',
+        repo: 'https://github.com/hakulattic/Naive-FTP',
       },
       fileList: {
         data: [] as FileType[],

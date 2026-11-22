@@ -50,7 +50,7 @@ To set up the environment, you need to have the following dependencies installed
 First, obtain the Naive-FTP package.
 
 ```bash
-git clone https://github.com/hakula139/Naive-FTP.git
+git clone https://github.com/hakulattic/Naive-FTP.git
 cd Naive-FTP
 ```
 
